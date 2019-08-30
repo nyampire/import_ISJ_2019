@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="39.884128999" lon="140.121649" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#36196;&#27810;" /></node>
+<node id="-2" lat="39.875282999" lon="140.176887" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20117;&#20869;" /></node>
+<node id="-3" lat="39.922806999" lon="140.061427" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20170;&#25144;" /></node>
+<node id="-4" lat="39.914901999" lon="140.120661" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23431;&#27835;&#26408;" /></node>
+<node id="-5" lat="39.898736999" lon="140.138747" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#40614;" /></node>
+<node id="-6" lat="39.919423999" lon="140.090802" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21271;&#24029;&#23611;" /></node>
+<node id="-7" lat="39.921134999" lon="140.109196" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#40658;&#22378;" /></node>
+<node id="-8" lat="39.908675999" lon="140.087765" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23567;&#31481;&#33457;" /></node>
+<node id="-9" lat="39.899614999" lon="140.106292" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22338;&#26412;" /></node>
+<node id="-10" lat="39.897508999" lon="140.123767" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23546;&#27810;" /></node>
+<node id="-11" lat="39.905553999" lon="140.124745" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#33913;&#30000;" /></node>
+<node id="-12" lat="39.904806999" lon="140.111158" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20843;&#30000;&#22823;&#20489;" /></node>
+<node id="-13" lat="39.907235999" lon="140.062176" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#27996;&#20117;&#24029;" /></node>
+<node id="-14" lat="39.912786999" lon="140.101713" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20445;&#37326;&#23376;" /></node>
+</osm>

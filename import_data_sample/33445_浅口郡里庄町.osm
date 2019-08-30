@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="34.523397999" lon="133.56142" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#37324;&#35211;" /></node>
+<node id="-2" lat="34.502628999" lon="133.553799" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26032;&#24196;" /></node>
+<node id="-3" lat="34.510225999" lon="133.547803" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26032;&#24196;&#12464;&#12522;&#12540;&#12531;&#12463;&#12524;&#12473;&#12488;" /></node>
+<node id="-4" lat="34.498933999" lon="133.538273" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#27996;&#20013;" /></node>
+</osm>

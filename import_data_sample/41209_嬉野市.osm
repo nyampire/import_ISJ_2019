@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="33.057928999" lon="129.99467" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23305;&#37326;&#30010;&#22823;&#23383;&#23721;&#23627;&#24029;&#20869;" /></node>
+<node id="-2" lat="33.104411999" lon="129.977478" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23305;&#37326;&#30010;&#22823;&#23383;&#19979;&#23487;" /></node>
+<node id="-3" lat="33.101531999" lon="130.008882" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23305;&#37326;&#30010;&#22823;&#23383;&#19979;&#37326;" /></node>
+<node id="-4" lat="33.087531999" lon="129.947564" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23305;&#37326;&#30010;&#22823;&#23383;&#19981;&#21205;&#23665;" /></node>
+<node id="-5" lat="33.056261999" lon="130.027948" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23305;&#37326;&#30010;&#22823;&#23383;&#21513;&#30000;" /></node>
+<node id="-6" lat="33.128694999" lon="130.006386" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#22823;&#33609;&#37326;" /></node>
+<node id="-7" lat="33.151591999" lon="130.059209" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#20037;&#38291;" /></node>
+<node id="-8" lat="33.121943999" lon="130.029285" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#20116;&#30010;&#30000;" /></node>
+<node id="-9" lat="33.099722999" lon="130.04935" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#35895;&#25152;" /></node>
+<node id="-10" lat="33.128671999" lon="130.047784" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#39340;&#22580;&#19979;" /></node>
+<node id="-11" lat="33.124278999" lon="130.078474" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22633;&#30000;&#30010;&#22823;&#23383;&#30495;&#23822;" /></node>
+</osm>

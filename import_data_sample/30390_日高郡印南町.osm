@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="33.821208999" lon="135.214708" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21360;&#21335;" /></node>
+<node id="-2" lat="33.857241999" lon="135.232849" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21360;&#21335;&#21407;" /></node>
+<node id="-3" lat="33.872114999" lon="135.294641" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#30342;&#28716;&#24029;" /></node>
+<node id="-4" lat="33.894125999" lon="135.337831" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#19978;&#27934;" /></node>
+<node id="-5" lat="33.901600999" lon="135.367334" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24029;&#21448;" /></node>
+<node id="-6" lat="33.870088999" lon="135.309331" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23567;&#21407;" /></node>
+<node id="-7" lat="33.878944999" lon="135.290428" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23822;&#12494;&#21407;" /></node>
+<node id="-8" lat="33.797462999" lon="135.247956" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23798;&#30000;" /></node>
+<node id="-9" lat="33.893821999" lon="135.325929" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#39640;&#20018;" /></node>
+<node id="-10" lat="33.876960999" lon="135.209266" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#31435;&#30707;" /></node>
+<node id="-11" lat="33.878278999" lon="135.314026" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#30000;&#12494;&#22435;&#20869;" /></node>
+<node id="-12" lat="33.825978999" lon="135.20609" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#27941;&#20117;" /></node>
+<node id="-13" lat="33.890504999" lon="135.30545" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#35199;&#31070;&#12494;&#24029;" /></node>
+<node id="-14" lat="33.818738999" lon="135.24262" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#35199;&#12494;&#22320;" /></node>
+<node id="-15" lat="33.867680999" lon="135.283749" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#20025;&#29983;" /></node>
+<node id="-16" lat="33.833569999" lon="135.265286" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#32701;&#20845;" /></node>
+<node id="-17" lat="33.856456999" lon="135.278441" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21476;&#20117;" /></node>
+<node id="-18" lat="33.818256999" lon="135.263919" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21476;&#23627;" /></node>
+<node id="-19" lat="33.842429999" lon="135.289762" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#27182;&#24029;" /></node>
+<node id="-20" lat="33.878395999" lon="135.280308" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26494;&#21407;" /></node>
+<node id="-21" lat="33.868678999" lon="135.266171" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#32654;&#37324;" /></node>
+<node id="-22" lat="33.860508999" lon="135.196536" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21335;&#35895;" /></node>
+<node id="-23" lat="33.825608999" lon="135.252251" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23470;&#12494;&#21069;" /></node>
+<node id="-24" lat="33.863225999" lon="135.212435" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26126;&#31070;&#24029;" /></node>
+<node id="-25" lat="33.830544999" lon="135.223769" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23665;&#21475;" /></node>
+</osm>

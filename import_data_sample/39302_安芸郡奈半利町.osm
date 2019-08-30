@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="33.426949999" lon="134.040277" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20057;" /></node>
+<node id="-2" lat="33.414076999" lon="134.060088" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#30002;" /></node>
+<node id="-3" lat="33.440040999" lon="134.075846" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#19993;" /></node>
+</osm>

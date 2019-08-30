@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="44.110271999" lon="142.345097" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#26093;&#30010;" /></node>
+<node id="-2" lat="44.085984999" lon="142.3579" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23663;&#30000;&#30010;" /></node>
+<node id="-3" lat="44.098847999" lon="142.362469" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20210;&#30010;" /></node>
+<node id="-4" lat="44.061638999" lon="142.328856" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21335;&#26716;&#30010;" /></node>
+<node id="-5" lat="44.095245999" lon="142.306538" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#35199;&#23713;&#30010;" /></node>
+<node id="-6" lat="44.152511999" lon="142.314682" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#35199;&#21407;&#30010;" /></node>
+<node id="-7" lat="44.099220999" lon="142.354952" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#35199;&#30010;" /></node>
+<node id="-8" lat="44.096098999" lon="142.40851" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#26481;&#30010;" /></node>
+<node id="-9" lat="44.132530999" lon="142.376841" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#34276;&#26412;&#30010;" /></node>
+<node id="-10" lat="44.099404999" lon="142.358535" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#32209;&#30010;" /></node>
+<node id="-11" lat="44.100575999" lon="142.373686" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20803;&#30010;" /></node>
+</osm>

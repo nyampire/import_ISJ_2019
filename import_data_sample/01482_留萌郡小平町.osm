@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="44.000510999" lon="141.666528" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#33276;&#35895;" /></node>
+<node id="-2" lat="44.074704999" lon="141.705341" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#22823;&#26932;" /></node>
+<node id="-3" lat="43.986513999" lon="141.791763" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#27798;&#20869;" /></node>
+<node id="-4" lat="44.183967999" lon="141.692923" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#21315;&#26494;" /></node>
+<node id="-5" lat="44.144756999" lon="141.727827" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#30000;&#20195;" /></node>
+<node id="-6" lat="44.106395999" lon="141.716997" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#23500;&#23713;" /></node>
+<node id="-7" lat="44.200388999" lon="141.684842" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#35914;&#27996;" /></node>
+<node id="-8" lat="44.119458999" lon="141.672687" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#31168;&#28006;" /></node>
+<node id="-9" lat="44.137953999" lon="141.676584" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#24195;&#23500;" /></node>
+<node id="-10" lat="44.153606999" lon="141.657404" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#28207;&#30010;" /></node>
+<node id="-11" lat="44.168295999" lon="141.672133" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#39740;&#40575;&#20803;&#27996;" /></node>
+<node id="-12" lat="44.015632999" lon="141.678003" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#23567;&#24179;&#30010;" /></node>
+<node id="-13" lat="44.089533999" lon="141.994147" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#24029;&#19978;" /></node>
+<node id="-14" lat="43.960150999" lon="141.741646" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#33738;&#23713;" /></node>
+<node id="-15" lat="43.949980999" lon="141.773959" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#23696;&#23500;" /></node>
+<node id="-16" lat="44.049757999" lon="141.809233" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#20303;&#21513;" /></node>
+<node id="-17" lat="43.967600999" lon="141.723894" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#26705;&#22290;" /></node>
+<node id="-18" lat="44.053936999" lon="141.943277" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#28381;&#19979;" /></node>
+<node id="-19" lat="44.030717999" lon="141.877036" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#36948;&#24067;" /></node>
+<node id="-20" lat="44.019098999" lon="141.719096" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#23500;&#37324;" /></node>
+<node id="-21" lat="43.949173999" lon="141.748539" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#35914;&#23713;" /></node>
+<node id="-22" lat="43.977426999" lon="141.687825" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#35914;&#24179;" /></node>
+<node id="-23" lat="44.055856999" lon="141.772713" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#23527;&#27005;" /></node>
+<node id="-24" lat="44.039769999" lon="141.697453" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#33457;&#23713;" /></node>
+<node id="-25" lat="44.026711999" lon="141.757567" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#24179;&#21644;" /></node>
+<node id="-26" lat="44.001125999" lon="141.693266" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23383;&#26412;&#37111;" /></node>
+</osm>

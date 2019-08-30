@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="36.105714999" lon="137.96727" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#22823;&#23567;&#23627;" /></node>
+<node id="-2" lat="36.103850999" lon="137.998014" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26623;&#27810;" /></node>
+<node id="-3" lat="36.136521999" lon="138.0023" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#29255;&#19992;" /></node>
+<node id="-4" lat="36.092545999" lon="137.992178" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#37329;&#20117;" /></node>
+<node id="-5" lat="36.087620999" lon="137.978458" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#19978;&#35199;&#26465;" /></node>
+<node id="-6" lat="35.978014999" lon="137.834085" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26408;&#26365;&#24179;&#27810;" /></node>
+<node id="-7" lat="36.064384999" lon="137.982829" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#21271;&#23567;&#37326;" /></node>
+<node id="-8" lat="36.097548999" lon="138.017367" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26087;&#22633;&#23611;" /></node>
+<node id="-9" lat="36.115539999" lon="137.967669" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#26719;&#25975;" /></node>
+<node id="-10" lat="36.105715999" lon="137.982437" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#22633;&#23611;&#30010;" /></node>
+<node id="-11" lat="36.084664999" lon="137.955444" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#19979;&#35199;&#26465;" /></node>
+<node id="-12" lat="36.102022999" lon="137.899524" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#27927;&#39340;" /></node>
+<node id="-13" lat="36.072202999" lon="137.921523" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23447;&#36032;" /></node>
+<node id="-14" lat="36.116648999" lon="137.945621" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#22823;&#38272;" /></node>
+<node id="-15" lat="36.112586999" lon="137.975658" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#38263;&#30045;" /></node>
+<node id="-16" lat="36.094707999" lon="137.967637" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#20013;&#35199;&#26465;" /></node>
+<node id="-17" lat="35.936802999" lon="137.815946" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#22856;&#33391;&#20117;" /></node>
+<node id="-18" lat="36.010664999" lon="137.863483" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#36100;&#24029;" /></node>
+<node id="-19" lat="36.139795999" lon="137.944038" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#22533;&#30707;" /></node>
+<node id="-20" lat="36.127384999" lon="137.938639" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#37111;&#21407;" /></node>
+<node id="-21" lat="36.129522999" lon="137.959554" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#39640;&#20986;" /></node>
+<node id="-22" lat="36.144835999" lon="137.957696" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#37326;&#26449;" /></node>
+<node id="-23" lat="36.150945999" lon="137.945848" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#21407;&#26032;&#30000;" /></node>
+<node id="-24" lat="36.162762999" lon="137.956419" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#24195;&#19992;&#21513;&#30000;" /></node>
+<node id="-25" lat="36.109806999" lon="137.967106" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#22528;&#12494;&#20869;" /></node>
+<node id="-26" lat="36.094130999" lon="137.996876" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#12415;&#12393;&#12426;&#28246;" /></node>
+<node id="-27" lat="36.094988999" lon="137.984726" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23383;&#23792;&#21407;" /></node>
+<node id="-28" lat="36.117871999" lon="137.958783" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#27849;&#30010;" /></node>
+<node id="-29" lat="36.111122999" lon="137.952868" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#19968;&#30058;&#30010;" /></node>
+<node id="-30" lat="36.117168999" lon="137.950331" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#26708;&#26775;&#30010;" /></node>
+<node id="-31" lat="36.114105999" lon="137.95966" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#20116;&#30058;&#30010;" /></node>
+<node id="-32" lat="36.117889999" lon="137.956261" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#24184;&#30010;" /></node>
+<node id="-33" lat="36.109156999" lon="137.957904" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#19977;&#30058;&#30010;" /></node>
+<node id="-34" lat="36.107014999" lon="137.962592" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#30000;&#24029;&#30010;" /></node>
+<node id="-35" lat="36.114847999" lon="137.951673" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#19971;&#30058;&#30010;" /></node>
+<node id="-36" lat="36.117893999" lon="137.953759" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#20006;&#26408;&#30010;" /></node>
+<node id="-37" lat="36.108137999" lon="137.955415" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#20108;&#30058;&#30010;" /></node>
+<node id="-38" lat="36.113403999" lon="137.949913" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#20843;&#30058;&#30010;" /></node>
+<node id="-39" lat="36.108930999" lon="137.961014" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#22235;&#30058;&#30010;" /></node>
+<node id="-40" lat="36.114623999" lon="137.955464" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#38272;&#20845;&#30058;&#30010;" /></node>
+</osm>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="36.062460999" lon="138.510228" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#26627;&#21407;" /></node>
+<node id="-2" lat="36.059935999" lon="138.510228" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#24029;&#21448;" /></node>
+<node id="-3" lat="36.062460999" lon="138.519773" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#36890;&#23721;" /></node>
+<node id="-4" lat="36.062290999" lon="138.528784" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#20140;&#12494;&#23721;" /></node>
+<node id="-5" lat="36.058612999" lon="138.538901" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#23470;&#24179;" /></node>
+<node id="-6" lat="36.060384999" lon="138.547711" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#20037;&#20445;" /></node>
+<node id="-7" lat="36.061692999" lon="138.555125" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#22338;&#19978;" /></node>
+<node id="-8" lat="36.060259999" lon="138.558831" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#20013;&#23614;" /></node>
+<node id="-9" lat="36.059561999" lon="138.563272" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#23665;&#21475;" /></node>
+<node id="-10" lat="36.058415999" lon="138.575962" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#31665;&#28716;" /></node>
+<node id="-11" lat="36.064316999" lon="138.585194" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#19979;&#26032;&#20117;" /></node>
+<node id="-12" lat="36.066199999" lon="138.592379" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#22823;&#26705;" /></node>
+<node id="-13" lat="36.074987999" lon="138.6019" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#30333;&#23721;" /></node>
+<node id="-14" lat="36.074807999" lon="138.606821" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#19977;&#23544;&#26408;" /></node>
+<node id="-15" lat="36.068365999" lon="138.625614" visible="true"><tag k="place" v="neighbourhood" /><tag k="name" v="&#26408;&#27425;&#21407;" /></node>
+</osm>

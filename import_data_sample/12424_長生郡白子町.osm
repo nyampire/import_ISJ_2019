@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="35.465028999" lon="140.396996" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#29275;&#36796;" /></node>
+<node id="-2" lat="35.437537999" lon="140.371417" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#39514;" /></node>
+<node id="-3" lat="35.436258999" lon="140.354948" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21271;&#39640;&#26681;" /></node>
+<node id="-4" lat="35.470554999" lon="140.367016" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21271;&#26085;&#24403;" /></node>
+<node id="-5" lat="35.451061999" lon="140.379351" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20116;&#20117;" /></node>
+<node id="-6" lat="35.425120999" lon="140.386699" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#24184;&#27835;" /></node>
+<node id="-7" lat="35.450711999" lon="140.360771" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#38306;" /></node>
+<node id="-8" lat="35.459662999" lon="140.392838" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21059;&#37329;" /></node>
+<node id="-9" lat="35.435891999" lon="140.382109" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20013;&#37324;" /></node>
+<node id="-10" lat="35.440585999" lon="140.384175" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20843;&#26007;" /></node>
+<node id="-11" lat="35.470459999" lon="140.404105" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#27996;&#23487;" /></node>
+<node id="-12" lat="35.454786999" lon="140.351461" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#31119;&#23798;" /></node>
+<node id="-13" lat="35.448411999" lon="140.394404" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21476;&#25152;" /></node>
+<node id="-14" lat="35.462799999" lon="140.365111" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21335;&#26085;&#24403;" /></node>
+</osm>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="uvmogr2osm" upload="false">
+<node id="-1" lat="33.173019999" lon="129.038612" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#23431;&#12293;&#23798;&#37111;" /></node>
+<node id="-2" lat="33.169786999" lon="129.022254" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23798;&#37111;" /></node>
+<node id="-3" lat="33.180570999" lon="129.058359" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#40658;&#23798;&#37111;" /></node>
+<node id="-4" lat="33.201267999" lon="129.064429" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20013;&#26449;&#37111;" /></node>
+<node id="-5" lat="33.222621999" lon="129.069363" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#32013;&#23798;&#37111;" /></node>
+<node id="-6" lat="33.186626999" lon="129.127665" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#37326;&#23822;&#37111;" /></node>
+<node id="-7" lat="33.202472999" lon="129.039282" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#27996;&#27941;&#37111;" /></node>
+<node id="-8" lat="33.192346999" lon="129.053175" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#31515;&#21561;&#37111;" /></node>
+<node id="-9" lat="33.201270999" lon="129.075963" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21069;&#26041;&#37111;" /></node>
+<node id="-10" lat="33.206447999" lon="129.019105" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#29677;&#23798;&#37111;" /></node>
+<node id="-11" lat="33.223788999" lon="129.135211" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20845;&#23798;&#37111;" /></node>
+<node id="-12" lat="33.209988999" lon="129.051923" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#26611;&#37111;" /></node>
+<node id="-13" lat="33.182009999" lon="129.020408" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#34282;&#36335;&#26408;&#23798;&#37111;" /></node>
+</osm>
