@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <osm version="0.6" generator="uvmogr2osm" upload="false">
-<node id="-1" lat="35.787143999" lon="138.924892" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#25276;&#22435;&#22806;" /></node>
-<node id="-2" lat="35.787979999" lon="138.920574" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#39640;&#23614;" /></node>
-<node id="-3" lat="35.790004999" lon="138.923827" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#19979;&#32068;" /></node>
-<node id="-4" lat="35.791716999" lon="138.919886" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20013;&#32068;" /></node>
-<node id="-5" lat="35.792368999" lon="138.917955" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#19978;&#32068;" /></node>
-<node id="-6" lat="35.793246999" lon="138.913512" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22885;&#31179;" /></node>
-<node id="-7" lat="35.788504999" lon="138.941909" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20445;&#20043;&#28716;" /></node>
+<node id="-1" lat="35.787144" lon="138.924892" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#25276;&#22435;&#22806;" /></node>
+<node id="-2" lat="35.78798" lon="138.920574" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#39640;&#23614;" /></node>
+<node id="-3" lat="35.790005" lon="138.923827" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#19979;&#32068;" /></node>
+<node id="-4" lat="35.791717" lon="138.919886" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20013;&#32068;" /></node>
+<node id="-5" lat="35.792369" lon="138.917955" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#19978;&#32068;" /></node>
+<node id="-6" lat="35.793247" lon="138.913512" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22885;&#31179;" /></node>
+<node id="-7" lat="35.788505" lon="138.941909" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#20445;&#20043;&#28716;" /></node>
 </osm>

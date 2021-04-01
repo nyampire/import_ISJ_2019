@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <osm version="0.6" generator="uvmogr2osm" upload="false">
-<node id="-1" lat="35.496608999" lon="136.958108" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#24179;&#36032;" /></node>
-<node id="-2" lat="35.494996999" lon="136.970683" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23665;" /></node>
-<node id="-3" lat="35.497031999" lon="136.989735" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21152;&#27835;&#30000;" /></node>
-<node id="-4" lat="35.474978999" lon="136.959752" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#39640;&#30033;" /></node>
-<node id="-5" lat="35.488461999" lon="136.974057" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#28381;&#30000;" /></node>
-<node id="-6" lat="35.478557999" lon="136.976619" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#32701;&#29983;" /></node>
-<node id="-7" lat="35.483306999" lon="136.992818" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22805;&#30000;" /></node>
+<node id="-1" lat="35.496609" lon="136.958108" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#24179;&#36032;" /></node>
+<node id="-2" lat="35.494997" lon="136.970683" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22823;&#23665;" /></node>
+<node id="-3" lat="35.497032" lon="136.989735" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#21152;&#27835;&#30000;" /></node>
+<node id="-4" lat="35.474979" lon="136.959752" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#39640;&#30033;" /></node>
+<node id="-5" lat="35.488462" lon="136.974057" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#28381;&#30000;" /></node>
+<node id="-6" lat="35.478558" lon="136.976619" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#32701;&#29983;" /></node>
+<node id="-7" lat="35.483307" lon="136.992818" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#22805;&#30000;" /></node>
 </osm>

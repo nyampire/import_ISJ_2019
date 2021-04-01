@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <osm version="0.6" generator="uvmogr2osm" upload="false">
-<node id="-1" lat="36.458353999" lon="138.047985" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#40635;" /></node>
-<node id="-2" lat="36.459650999" lon="138.018208" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#26085;" /></node>
+<node id="-1" lat="36.458354" lon="138.047985" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#40635;" /></node>
+<node id="-2" lat="36.459651" lon="138.018208" visible="true"><tag k="place" v="quarter" /><tag k="name" v="&#26085;" /></node>
 </osm>
