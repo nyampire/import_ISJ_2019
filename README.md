@@ -1,4 +1,4 @@
-# import_ISJ_2021
+# import_ISJ_2019
 This is a repository for ISJ data import action to OpenStreetMap.
 
 Detailed information is available in OSM wiki page.
